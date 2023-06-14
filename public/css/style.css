@@ -1,0 +1,26 @@
+*{
+padding: 0px;
+margin: 0px;
+
+
+}
+.bg-img{
+
+    background: url('../img/copy-space-hamburger.jpg')no-repeat;
+    background-size: cover;
+    height: 70vh;
+    width: 100vw;
+    background-attachment:fixed ;
+}
+nav{
+    height: 80px !important;
+}
+.navbar-nav  .nav-link, navbar-brand{
+color:rgba(red, green, blue, alpha);
+font-size:20px !important ;
+font-weight: 700px;
+font: bold;
+}
+
+
+
